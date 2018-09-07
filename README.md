@@ -3,7 +3,7 @@ Streams are durable event pipelines that give your code increased limits and the
 Getting Started
 ===============
 
-- Install the [Streams](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000002Kmcr) package.
+- Install the [Streams](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000002LPBs) package.
 
 Simplest Possible Thing
 ===============
