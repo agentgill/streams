@@ -1,12 +1,10 @@
 Streams are durable event pipelines that give your code increased limits and the ability to recover from any error.
 
-Getting Started
-===============
+# Getting Started
 
-- Install the [Streams](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000002LPG5) package.
+- Install the [Streams](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000002LPBs) package.
 
-Simplest Possible Thing
-===============
+# Simplest Possible Thing
 
 <img src="https://github.com/bigassforce/streams/wiki/resources/Home/success.png" align="right" />
 
@@ -18,6 +16,10 @@ Simplest Possible Thing
 See the log email? Here's what happened:
 
 First your event was stored in a record, then the Log service processed it inside a try-catch block with a savepoint. Although this service just sends an email, the key takeaway is this: everything processed safely in an async context with increased limits, without writing code.
+
+# Examples
+
+<a href="https://player.vimeo.com/video/287756059" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-deactivate-users-thumb.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://player.vimeo.com/video/288027938" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-csv-into-flow-thumb.png" /></a>
 
 # Next Steps
 
