@@ -19,7 +19,7 @@ First your event was stored in a record, then the Log service processed it insid
 
 # Examples
 
-<a href="https://player.vimeo.com/video/287756059?autoplay=1" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-deactivate-users-thumb.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://player.vimeo.com/video/288027938?autoplay=1" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-csv-into-flow-thumb.png" /></a>
+<a href="https://player.vimeo.com/video/287756059" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-deactivate-users-thumb.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://player.vimeo.com/video/288027938" target="_blank"><img src="https://raw.githubusercontent.com/wiki/bigassforce/streams/resources/Home/streams-csv-into-flow-thumb.png" /></a>
 
 # Next Steps
 
